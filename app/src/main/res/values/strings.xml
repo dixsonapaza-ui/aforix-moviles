@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FORIX</string>
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="register_title">Crear Cuenta</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="register_button">Registrarse</string>
+    <string name="aforo_title">Control de Aforo</string>
+    <string name="current_occupancy">Ocupación Actual</string>
+    <string name="max_capacity">Capacidad Máxima</string>
+    <string name="enter">Entrar</string>
+    <string name="exit">Salir</string>
+    <string name="faq_title">Preguntas Frecuentes</string>
+    <string name="more_title">Más</string>
+    <string name="logout">Cerrar Sesión</string>
+</resources>
