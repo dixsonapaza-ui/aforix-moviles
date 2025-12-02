@@ -1,4 +1,4 @@
-# Guia para Subir el Proyecto FORIX a GitHub
+# Guia para Subir el Proyecto AFORIX a GitHub
 
 ## Paso 1: Crear Repositorio en GitHub
 
@@ -23,7 +23,7 @@ git init
 git add .
 
 # Hacer el primer commit
-git commit -m "Initial commit: FORIX - Control de Aforo v1.0.0"
+git commit -m "Initial commit: AFORIX - Control de Aforo v1.0.0"
 
 # Agregar el repositorio remoto (reemplaza TU_USUARIO con tu usuario de GitHub)
 git remote add origin https://github.com/TU_USUARIO/forix-control-aforo.git

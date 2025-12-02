@@ -26,8 +26,8 @@ fun FAQScreen() {
     val faqs = remember {
         listOf(
             FAQItem(
-                question = "¿Qué es FORIX?",
-                answer = "FORIX es una aplicación de control de aforo que te permite gestionar y monitorear la cantidad de personas en un espacio determinado en tiempo real."
+                question = "¿Qué es AFORIX?",
+                answer = "AFORIX es una aplicación de control de aforo que te permite gestionar y monitorear la cantidad de personas en un espacio determinado en tiempo real."
             ),
             FAQItem(
                 question = "¿Cómo registro una entrada?",
@@ -51,7 +51,7 @@ fun FAQScreen() {
             ),
             FAQItem(
                 question = "¿Necesito conexión a internet?",
-                answer = "Sí, FORIX requiere conexión a internet para sincronizar los datos en tiempo real con Firebase."
+                answer = "Sí, AFORIX requiere conexión a internet para sincronizar los datos en tiempo real con Firebase."
             ),
             FAQItem(
                 question = "¿Cómo creo una cuenta?",

@@ -2,7 +2,7 @@ package com.example.clima.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-// Paleta de colores elegante para FORIX
+// Paleta de colores elegante para AFORIX
 val ForixPrimary = Color(0xFF6366F1) // Indigo elegante
 val ForixPrimaryDark = Color(0xFF4F46E5)
 val ForixPrimaryLight = Color(0xFF818CF8)

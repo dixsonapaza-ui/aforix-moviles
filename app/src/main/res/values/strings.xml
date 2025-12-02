@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FORIX</string>
+    <string name="app_name">AFORIX</string>
     <string name="login_title">Iniciar Sesión</string>
     <string name="register_title">Crear Cuenta</string>
     <string name="email">Correo electrónico</string>

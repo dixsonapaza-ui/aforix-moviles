@@ -102,7 +102,7 @@ fun MoreScreen(
         MoreOptionItem(
             icon = Icons.Default.Info,
             title = "Acerca de",
-            description = "Información sobre FORIX",
+            description = "Información sobre AFORIX",
             onClick = { /* TODO: Implementar */ }
         )
         
@@ -123,7 +123,7 @@ fun MoreScreen(
         MoreOptionItem(
             icon = Icons.Default.Star,
             title = "Calificar",
-            description = "Califica FORIX en la tienda",
+            description = "Califica AFORIX en la tienda",
             onClick = { /* TODO: Implementar */ }
         )
         
@@ -155,7 +155,7 @@ fun MoreScreen(
         
         // Version info
         Text(
-            text = "FORIX v1.0.0",
+            text = "AFORIX v1.0.0",
             fontSize = 12.sp,
             color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f),
             modifier = Modifier

@@ -1,4 +1,4 @@
-# FORIX - Control de Aforo
+# AFORIX - Control de Aforo
 
 Aplicación Android moderna para el control de aforo de personas en tiempo real, desarrollada con Jetpack Compose y Firebase.
 
@@ -140,5 +140,5 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 
 ## Autor
 
-Desarrollado para FORIX - Control de Aforo
+Desarrollado para AFORIX - Control de Aforo
 

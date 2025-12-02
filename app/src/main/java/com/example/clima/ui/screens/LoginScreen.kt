@@ -48,7 +48,7 @@ fun LoginScreen(
     ) {
         // Logo/Título
         Text(
-            text = "FORIX",
+            text = "AFORIX",
             fontSize = 48.sp,
             fontWeight = FontWeight.Bold,
             color = MaterialTheme.colorScheme.primary,

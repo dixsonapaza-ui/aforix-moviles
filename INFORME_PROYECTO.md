@@ -1,4 +1,4 @@
-# INFORME DETALLADO DEL PROYECTO FORIX
+# INFORME DETALLADO DEL PROYECTO AFORIX
 
 **Fecha de Generacion:** 02/12/2025  
 **Version del Proyecto:** 1.0.0  
@@ -9,7 +9,7 @@
 ## INFORMACION GENERAL
 
 ### Datos del Proyecto
-- **Nombre:** FORIX - Control de Aforo
+- **Nombre:** AFORIX - Control de Aforo
 - **Tipo:** Aplicacion Android Nativa
 - **Package Name:** `com.example.clima`
 - **Version:** 1.0.0 (versionCode: 1)
@@ -18,7 +18,7 @@
 - **Compile SDK:** 36
 
 ### Descripcion
-FORIX es una aplicacion Android moderna desarrollada con Jetpack Compose para el control y monitoreo de aforo de personas en tiempo real. Utiliza Firebase como backend para sincronizacion en la nube y autenticacion de usuarios.
+AFORIX es una aplicacion Android moderna desarrollada con Jetpack Compose para el control y monitoreo de aforo de personas en tiempo real. Utiliza Firebase como backend para sincronizacion en la nube y autenticacion de usuarios.
 
 ---
 
@@ -173,7 +173,7 @@ clima/
 
 ### 6. Preguntas Frecuentes (FAQ)
 - **8 Preguntas Frecuentes:**
-  - Que es FORIX?
+  - Que es AFORIX?
   - Como registro una entrada?
   - Como registro una salida?
   - Que pasa si se alcanza la capacidad maxima?

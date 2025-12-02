@@ -1,4 +1,4 @@
-# Configuración de Firebase para FORIX
+# Configuración de Firebase para AFORIX
 
 ## Pasos para configurar Firebase
 
@@ -6,7 +6,7 @@
 
 1. Ve a [Firebase Console](https://console.firebase.google.com/)
 2. Haz clic en "Agregar proyecto" o selecciona un proyecto existente
-3. Completa el nombre del proyecto (ej: "FORIX")
+3. Completa el nombre del proyecto (ej: "AFORIX")
 4. Sigue los pasos del asistente
 
 ### 2. Agregar aplicación Android
@@ -14,7 +14,7 @@
 1. En el panel del proyecto, haz clic en el ícono de Android
 2. Completa el formulario:
    - **Nombre del paquete Android**: `com.example.clima`
-   - **Apodo de la app** (opcional): FORIX
+   - **Apodo de la app** (opcional): AFORIX
    - **Certificado de firma SHA-1** (opcional para desarrollo)
 3. Haz clic en "Registrar app"
 4. **Descarga el archivo `google-services.json`**
